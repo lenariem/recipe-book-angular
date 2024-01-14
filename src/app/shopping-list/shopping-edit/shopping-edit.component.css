@@ -1,0 +1,11 @@
+.duplication-warning {
+    color: rgb(151, 45, 45);
+    font-weight: 700;
+    padding: 1%;
+    border: 1px solid red;
+    margin-top: 2%;
+}
+
+.btn {
+    margin-right: 10px;
+}

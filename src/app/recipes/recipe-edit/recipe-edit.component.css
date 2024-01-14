@@ -1,0 +1,17 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.saveBtn {
+  margin-right: 10px;
+}
+
+.linkToRecipeApp {
+  float: right;
+  font-style: italic;
+}
+
+.addIngredientBtn {
+  margin-bottom: 10px;
+}

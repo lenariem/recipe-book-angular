@@ -1,0 +1,11 @@
+a {
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  width: 180px;
+}
+
+.manageIcon {
+  float: right;
+}
